@@ -1,4 +1,4 @@
-module git.wosai-inc.com/qa/mqtt-golang
+module github.com/kaixinli982/mqtt-golang
 
 go 1.23
 
